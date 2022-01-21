@@ -1,10 +1,11 @@
 
 # This is Meow's Homepage.
 
-It will talk and serve as a reference for everything I like.
-- [AngularJS] - HTML enhanced for web apps!
+It will record and serve as a reference for everything I like and research so I don't have to keep re-researching the same things when I invariably come back to the same hobbies and interests later on.
 
-## Animals
+[About Meow]
+
+## [Animals]
 - [Angelfish]
 - [Discus]
 - [Flagfish]
@@ -18,7 +19,7 @@ It will talk and serve as a reference for everything I like.
 - [Water Chemistry]
 - [Whip Spiders]
 
-## Art
+## [Art]
 - [ASCII]
 - [Cyanotyping]
 - [Datamoshing]
@@ -31,7 +32,7 @@ It will talk and serve as a reference for everything I like.
 
 
 
-## DIY-Bio
+## [DIY-Bio]
 - [Algae Library]
 - [Aquaponics + Greenhouses]
 - [Arkaeology]
@@ -54,23 +55,23 @@ It will talk and serve as a reference for everything I like.
 - [list of Jameson inspired projects for mesh networking etc]
 
 
-## Books I have read
-## List of categorised interesting links
+## [Books I have read]
+## [List of categorised interesting links]
 
-## ISO 13485
-- How to
+## [ISO 13485]
+- [How to]
 
-## Preserving Things
+## [Preserving Things]
 - [Diophonisation]
 - [Recipes]
 - [Corrosion Casting]
 
-## Programming
-- ISO 13485 document builder
-- Procedural Generation
-    - cave building
-    - Dungeon Building
-    - Mandelboxes
+## [Programming]
+- [ISO 13485 document builder]
+- [Procedural Generation]
+    - [Cave Building]
+    - [Dungeon Building]
+    - [Mandelboxes]
 
 Future:
 Learning metlwork from clickspring
@@ -80,7 +81,7 @@ orchids
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-   [dill]: <https://github.com/joemccann/dillinger>
+   [About Meow]: <meow.md>
    [Animals]: </animals/animals.md>
    [Angelfish]: </animals/angelfish.md>
    [Discus]: </animals/discus.md>
